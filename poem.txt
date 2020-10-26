@@ -6,3 +6,6 @@ blue
 green
 yellow
 red
+black 
+purple
+and more colours..
