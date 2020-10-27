@@ -5,7 +5,10 @@ orange
 blue
 green
 yellow
-red
+red<<<<<<< ponies
+And there were ponies there!
+=======
 black 
 purple
 and more colours..
+
